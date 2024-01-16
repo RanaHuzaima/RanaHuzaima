@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Huzaima</h1>
 <h3 align="center">Front-End Developer 👨‍💻 | Crafting Engaging Web Experiences with Expertise in HTML, CSS, JavaScript, and React 🔥 | Open Source Enthusiast⚡</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranahuzaima&label=Profile%20views&color=0e75b6&style=flat" alt="ranahuzaima" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranahuzaima" alt="ranahuzaima" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rana_huzaima" target="blank"><img src="https://img.shields.io/twitter/follow/rana_huzaima?logo=twitter&style=for-the-badge" alt="rana_huzaima" /></a> </p>
 
