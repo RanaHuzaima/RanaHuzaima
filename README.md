@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/rana_huzaima" target="blank"><img src="https://img.shields.io/twitter/follow/rana_huzaima?logo=twitter&style=for-the-badge" alt="rana_huzaima" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto Tracker](https://github.com/RanaHuzaima/Crypto-Tracker)
+- 🔭 I’m currently working on [PaalX]
 
 - 🌱 I’m currently learning **React Native**
 
