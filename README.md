@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Crypto Tracker](https://github.com/RanaHuzaima/Crypto-Tracker)
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RanaHuzaima](https://github.com/RanaHuzaima)
 
