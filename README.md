@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/rana_huzaima" target="blank"><img src="https://img.shields.io/twitter/follow/rana_huzaima?logo=twitter&style=for-the-badge" alt="rana_huzaima" /></a> </p>
 
-- 🔭 I’m currently working on OJIYO
+- 🔭 I’m currently working on VibeBrux
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RanaHuzaima](https://github.com/RanaHuzaima)
 
